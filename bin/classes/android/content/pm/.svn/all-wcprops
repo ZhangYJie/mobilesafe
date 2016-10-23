@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/heima74/!svn/ver/60/mobilesafe74/src/android/content/pm
+END
+PackageStats.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/heima74/!svn/ver/60/mobilesafe74/src/android/content/pm/PackageStats.aidl
+END
+IPackageStatsObserver.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/heima74/!svn/ver/60/mobilesafe74/src/android/content/pm/IPackageStatsObserver.aidl
+END
+IPackageDataObserver.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/heima74/!svn/ver/61/mobilesafe74/src/android/content/pm/IPackageDataObserver.aidl
+END

@@ -1,0 +1,76 @@
+10
+
+dir
+57
+https://192.168.13.99/svn/heima74/mobilesafe74/res
+https://192.168.13.99/svn/heima74
+
+
+
+2015-10-07T02:44:43.810542Z
+56
+teacher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+390af074-4c9f-d343-bdb4-34f7f6ac8cc5
+
+values-sw720dp-land
+dir
+
+drawable
+dir
+
+drawable-xxhdpi
+dir
+
+anim
+dir
+
+raw
+dir
+
+drawable-xhdpi
+dir
+
+values
+dir
+
+values-sw600dp
+dir
+
+xml
+dir
+
+drawable-hdpi
+dir
+
+values-v11
+dir
+
+menu
+dir
+
+values-v14
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+

@@ -1,0 +1,134 @@
+# view AndroidManifest.xml #generated:20
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:97
+-keep class com.itheima.mobilesafe74.activity.AToolActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.itheima.mobilesafe74.activity.AnitVirusActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class com.itheima.mobilesafe74.activity.AppLockActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class com.itheima.mobilesafe74.activity.AppManagerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:110
+-keep class com.itheima.mobilesafe74.activity.BaseCacheClearActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class com.itheima.mobilesafe74.activity.BlackNumberActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:109
+-keep class com.itheima.mobilesafe74.activity.CacheClearActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:106
+-keep class com.itheima.mobilesafe74.activity.CommonNumberQueryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class com.itheima.mobilesafe74.activity.ContactListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class com.itheima.mobilesafe74.activity.EnterPsdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:82
+-keep class com.itheima.mobilesafe74.activity.HomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:104
+-keep class com.itheima.mobilesafe74.activity.ProcessManagerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class com.itheima.mobilesafe74.activity.ProcessSettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.itheima.mobilesafe74.activity.QueryAddressActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class com.itheima.mobilesafe74.activity.SDCacheClearActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:89
+-keep class com.itheima.mobilesafe74.activity.SettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class com.itheima.mobilesafe74.activity.Setup1Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class com.itheima.mobilesafe74.activity.Setup2Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class com.itheima.mobilesafe74.activity.Setup3Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.itheima.mobilesafe74.activity.Setup4Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class com.itheima.mobilesafe74.activity.SetupOverActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class com.itheima.mobilesafe74.activity.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class com.itheima.mobilesafe74.activity.TestActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:99
+-keep class com.itheima.mobilesafe74.activity.ToastLocationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class com.itheima.mobilesafe74.activity.TrafficActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.itheima.mobilesafe74.global.MyApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:121
+-keep class com.itheima.mobilesafe74.receiver.BootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:133
+-keep class com.itheima.mobilesafe74.receiver.KillProcessReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:140
+-keep class com.itheima.mobilesafe74.receiver.MyAppWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:126
+-keep class com.itheima.mobilesafe74.receiver.SmsReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:151
+-keep class com.itheima.mobilesafe74.service.AddressService { <init>(...); }
+
+# view AndroidManifest.xml #generated:152
+-keep class com.itheima.mobilesafe74.service.BlackNumberService { <init>(...); }
+
+# view AndroidManifest.xml #generated:150
+-keep class com.itheima.mobilesafe74.service.LocationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class com.itheima.mobilesafe74.service.LockScreenService { <init>(...); }
+
+# view AndroidManifest.xml #generated:154
+-keep class com.itheima.mobilesafe74.service.UpdateWidgetService { <init>(...); }
+
+# view AndroidManifest.xml #generated:155
+-keep class com.itheima.mobilesafe74.service.WatchDogService { <init>(...); }
+
+# view res/layout/activity_home.xml #generated:30
+-keep class com.itheima.mobilesafe74.view.FocusTextView { <init>(...); }
+
+# view res/layout/activity_setting.xml #generated:28
+# view res/layout/activity_setting.xml #generated:33
+-keep class com.itheima.mobilesafe74.view.SettingClickView { <init>(...); }
+
+# view res/layout/activity_setting.xml #generated:10
+# view res/layout/activity_setting.xml #generated:19
+# view res/layout/activity_setting.xml #generated:38
+# view res/layout/activity_setting.xml #generated:47
+# view res/layout/activity_setup2.xml #generated:17
+-keep class com.itheima.mobilesafe74.view.SettingItemView { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class net.youmi.android.AdBrowser { <init>(...); }
+
+# view AndroidManifest.xml #generated:168
+-keep class net.youmi.android.AdReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:163
+-keep class net.youmi.android.AdService { <init>(...); }
+

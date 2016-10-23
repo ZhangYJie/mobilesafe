@@ -1,0 +1,360 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+com.itheima.mobilesafe74.R$anim: int cycle_7
+com.itheima.mobilesafe74.R$anim: int next_in_anim
+com.itheima.mobilesafe74.R$anim: int next_out_anim
+com.itheima.mobilesafe74.R$anim: int pre_in_anim
+com.itheima.mobilesafe74.R$anim: int pre_out_anim
+com.itheima.mobilesafe74.R$anim: int shake
+com.itheima.mobilesafe74.R$attr: int desoff
+com.itheima.mobilesafe74.R$attr: int deson
+com.itheima.mobilesafe74.R$attr: int destitle
+com.itheima.mobilesafe74.R$color: int pink
+com.itheima.mobilesafe74.R$dimen: int activity_horizontal_margin
+com.itheima.mobilesafe74.R$dimen: int activity_vertical_margin
+com.itheima.mobilesafe74.R$drawable: int act_scanning_03
+com.itheima.mobilesafe74.R$drawable: int bind
+com.itheima.mobilesafe74.R$drawable: int btn_green_normal
+com.itheima.mobilesafe74.R$drawable: int btn_green_pressed
+com.itheima.mobilesafe74.R$drawable: int call_locate_blue
+com.itheima.mobilesafe74.R$drawable: int call_locate_gray
+com.itheima.mobilesafe74.R$drawable: int call_locate_green
+com.itheima.mobilesafe74.R$drawable: int call_locate_orange
+com.itheima.mobilesafe74.R$drawable: int call_locate_white
+com.itheima.mobilesafe74.R$drawable: int drag
+com.itheima.mobilesafe74.R$drawable: int function_greenbutton_normal
+com.itheima.mobilesafe74.R$drawable: int function_greenbutton_pressed
+com.itheima.mobilesafe74.R$drawable: int home_apps
+com.itheima.mobilesafe74.R$drawable: int home_callmsgsafe
+com.itheima.mobilesafe74.R$drawable: int home_netmanager
+com.itheima.mobilesafe74.R$drawable: int home_safe
+com.itheima.mobilesafe74.R$drawable: int home_settings
+com.itheima.mobilesafe74.R$drawable: int home_sysoptimize
+com.itheima.mobilesafe74.R$drawable: int home_taskmanager
+com.itheima.mobilesafe74.R$drawable: int home_tools
+com.itheima.mobilesafe74.R$drawable: int home_trojan
+com.itheima.mobilesafe74.R$drawable: int ic_launcher
+com.itheima.mobilesafe74.R$drawable: int ic_scanner_malware
+com.itheima.mobilesafe74.R$drawable: int img1
+com.itheima.mobilesafe74.R$drawable: int img2
+com.itheima.mobilesafe74.R$drawable: int img3
+com.itheima.mobilesafe74.R$drawable: int jiantou1_pressed
+com.itheima.mobilesafe74.R$drawable: int launcher_bg
+com.itheima.mobilesafe74.R$drawable: int listview_divider
+com.itheima.mobilesafe74.R$drawable: int local_popup_bg
+com.itheima.mobilesafe74.R$drawable: int lock
+com.itheima.mobilesafe74.R$drawable: int main_clean_icon
+com.itheima.mobilesafe74.R$drawable: int main_clean_icon_pressed
+com.itheima.mobilesafe74.R$drawable: int next
+com.itheima.mobilesafe74.R$drawable: int phone
+com.itheima.mobilesafe74.R$drawable: int previous
+com.itheima.mobilesafe74.R$drawable: int progress_bg
+com.itheima.mobilesafe74.R$drawable: int reset_setup_bg_press
+com.itheima.mobilesafe74.R$drawable: int security_progress
+com.itheima.mobilesafe74.R$drawable: int security_progress_bg
+com.itheima.mobilesafe74.R$drawable: int selector_atool_item_bg
+com.itheima.mobilesafe74.R$drawable: int selector_blacknumber_delete_btn_bg
+com.itheima.mobilesafe74.R$drawable: int selector_next_btn_bg
+com.itheima.mobilesafe74.R$drawable: int selector_number_btn_bg
+com.itheima.mobilesafe74.R$drawable: int selector_reset_setup_bg
+com.itheima.mobilesafe74.R$drawable: int setup1
+com.itheima.mobilesafe74.R$drawable: int tab_left_default
+com.itheima.mobilesafe74.R$drawable: int tab_left_pressed
+com.itheima.mobilesafe74.R$drawable: int tab_right_default
+com.itheima.mobilesafe74.R$drawable: int tab_right_pressed
+com.itheima.mobilesafe74.R$drawable: int unlock
+com.itheima.mobilesafe74.R$drawable: int widget_bg_portrait
+com.itheima.mobilesafe74.R$drawable: int widget_bg_portrait_child
+com.itheima.mobilesafe74.R$drawable: int widget_bg_portrait_child_divider
+com.itheima.mobilesafe74.R$id: int action_settings
+com.itheima.mobilesafe74.R$id: int bt_add
+com.itheima.mobilesafe74.R$id: int bt_bottom
+com.itheima.mobilesafe74.R$id: int bt_cancel
+com.itheima.mobilesafe74.R$id: int bt_clear
+com.itheima.mobilesafe74.R$id: int bt_lock
+com.itheima.mobilesafe74.R$id: int bt_query
+com.itheima.mobilesafe74.R$id: int bt_select_all
+com.itheima.mobilesafe74.R$id: int bt_select_number
+com.itheima.mobilesafe74.R$id: int bt_select_reverse
+com.itheima.mobilesafe74.R$id: int bt_setting
+com.itheima.mobilesafe74.R$id: int bt_submit
+com.itheima.mobilesafe74.R$id: int bt_top
+com.itheima.mobilesafe74.R$id: int bt_unlock
+com.itheima.mobilesafe74.R$id: int btn_clear
+com.itheima.mobilesafe74.R$id: int cb_box
+com.itheima.mobilesafe74.R$id: int cb_lock_clear
+com.itheima.mobilesafe74.R$id: int cb_show_system
+com.itheima.mobilesafe74.R$id: int content
+com.itheima.mobilesafe74.R$id: int elv_common_number
+com.itheima.mobilesafe74.R$id: int et_confirm_psd
+com.itheima.mobilesafe74.R$id: int et_phone
+com.itheima.mobilesafe74.R$id: int et_phone_number
+com.itheima.mobilesafe74.R$id: int et_psd
+com.itheima.mobilesafe74.R$id: int et_set_psd
+com.itheima.mobilesafe74.R$id: int gv_home
+com.itheima.mobilesafe74.R$id: int handler
+com.itheima.mobilesafe74.R$id: int iv_app_icon
+com.itheima.mobilesafe74.R$id: int iv_delete
+com.itheima.mobilesafe74.R$id: int iv_drag
+com.itheima.mobilesafe74.R$id: int iv_icon
+com.itheima.mobilesafe74.R$id: int iv_image
+com.itheima.mobilesafe74.R$id: int iv_lock
+com.itheima.mobilesafe74.R$id: int iv_scanning
+com.itheima.mobilesafe74.R$id: int ll_add_text
+com.itheima.mobilesafe74.R$id: int ll_lock
+com.itheima.mobilesafe74.R$id: int ll_root
+com.itheima.mobilesafe74.R$id: int ll_unlock
+com.itheima.mobilesafe74.R$id: int lv_app_list
+com.itheima.mobilesafe74.R$id: int lv_blacknumber
+com.itheima.mobilesafe74.R$id: int lv_contact
+com.itheima.mobilesafe74.R$id: int lv_lock
+com.itheima.mobilesafe74.R$id: int lv_process_list
+com.itheima.mobilesafe74.R$id: int lv_unlock
+com.itheima.mobilesafe74.R$id: int pb_bar
+com.itheima.mobilesafe74.R$id: int rb_all
+com.itheima.mobilesafe74.R$id: int rb_phone
+com.itheima.mobilesafe74.R$id: int rb_sms
+com.itheima.mobilesafe74.R$id: int rg_group
+com.itheima.mobilesafe74.R$id: int rl_root
+com.itheima.mobilesafe74.R$id: int scv_location
+com.itheima.mobilesafe74.R$id: int scv_toast_style
+com.itheima.mobilesafe74.R$id: int siv_address
+com.itheima.mobilesafe74.R$id: int siv_app_lock
+com.itheima.mobilesafe74.R$id: int siv_blacknumber
+com.itheima.mobilesafe74.R$id: int siv_sim_bound
+com.itheima.mobilesafe74.R$id: int siv_update
+com.itheima.mobilesafe74.R$id: int tv_app_lock
+com.itheima.mobilesafe74.R$id: int tv_app_name
+com.itheima.mobilesafe74.R$id: int tv_commonnumber_query
+com.itheima.mobilesafe74.R$id: int tv_des
+com.itheima.mobilesafe74.R$id: int tv_lock
+com.itheima.mobilesafe74.R$id: int tv_memory
+com.itheima.mobilesafe74.R$id: int tv_memory_info
+com.itheima.mobilesafe74.R$id: int tv_mode
+com.itheima.mobilesafe74.R$id: int tv_name
+com.itheima.mobilesafe74.R$id: int tv_number
+com.itheima.mobilesafe74.R$id: int tv_path
+com.itheima.mobilesafe74.R$id: int tv_phone
+com.itheima.mobilesafe74.R$id: int tv_process_count
+com.itheima.mobilesafe74.R$id: int tv_process_memory
+com.itheima.mobilesafe74.R$id: int tv_query_phone_address
+com.itheima.mobilesafe74.R$id: int tv_query_result
+com.itheima.mobilesafe74.R$id: int tv_reset_setup
+com.itheima.mobilesafe74.R$id: int tv_sd_memory
+com.itheima.mobilesafe74.R$id: int tv_share
+com.itheima.mobilesafe74.R$id: int tv_sms_backup
+com.itheima.mobilesafe74.R$id: int tv_start
+com.itheima.mobilesafe74.R$id: int tv_title
+com.itheima.mobilesafe74.R$id: int tv_toast
+com.itheima.mobilesafe74.R$id: int tv_uninstall
+com.itheima.mobilesafe74.R$id: int tv_unlock
+com.itheima.mobilesafe74.R$id: int tv_version_name
+com.itheima.mobilesafe74.R$layout: int activity_anit_virus
+com.itheima.mobilesafe74.R$layout: int activity_app_lock
+com.itheima.mobilesafe74.R$layout: int activity_app_manager
+com.itheima.mobilesafe74.R$layout: int activity_atool
+com.itheima.mobilesafe74.R$layout: int activity_base_clear_cache
+com.itheima.mobilesafe74.R$layout: int activity_blacknumber
+com.itheima.mobilesafe74.R$layout: int activity_cache_clear
+com.itheima.mobilesafe74.R$layout: int activity_common_number
+com.itheima.mobilesafe74.R$layout: int activity_contact_list
+com.itheima.mobilesafe74.R$layout: int activity_enter_psd
+com.itheima.mobilesafe74.R$layout: int activity_home
+com.itheima.mobilesafe74.R$layout: int activity_process_manager
+com.itheima.mobilesafe74.R$layout: int activity_process_setting
+com.itheima.mobilesafe74.R$layout: int activity_query_address
+com.itheima.mobilesafe74.R$layout: int activity_setting
+com.itheima.mobilesafe74.R$layout: int activity_setup1
+com.itheima.mobilesafe74.R$layout: int activity_setup2
+com.itheima.mobilesafe74.R$layout: int activity_setup3
+com.itheima.mobilesafe74.R$layout: int activity_setup4
+com.itheima.mobilesafe74.R$layout: int activity_setup_over
+com.itheima.mobilesafe74.R$layout: int activity_splash
+com.itheima.mobilesafe74.R$layout: int activity_toast_location
+com.itheima.mobilesafe74.R$layout: int activity_traffic
+com.itheima.mobilesafe74.R$layout: int dialog_add_blacknumber
+com.itheima.mobilesafe74.R$layout: int dialog_confirm_psd
+com.itheima.mobilesafe74.R$layout: int dialog_set_psd
+com.itheima.mobilesafe74.R$layout: int elv_child_item
+com.itheima.mobilesafe74.R$layout: int example_appwidget
+com.itheima.mobilesafe74.R$layout: int gridview_item
+com.itheima.mobilesafe74.R$layout: int linearlayout_cache_item
+com.itheima.mobilesafe74.R$layout: int listview_app_item
+com.itheima.mobilesafe74.R$layout: int listview_app_item_title
+com.itheima.mobilesafe74.R$layout: int listview_blacknumber_item
+com.itheima.mobilesafe74.R$layout: int listview_contact_item
+com.itheima.mobilesafe74.R$layout: int listview_islock_item
+com.itheima.mobilesafe74.R$layout: int listview_process_item
+com.itheima.mobilesafe74.R$layout: int popupwindow_layout
+com.itheima.mobilesafe74.R$layout: int process_widget
+com.itheima.mobilesafe74.R$layout: int setting_click_view
+com.itheima.mobilesafe74.R$layout: int setting_item_view
+com.itheima.mobilesafe74.R$layout: int test
+com.itheima.mobilesafe74.R$layout: int toast_view
+com.itheima.mobilesafe74.R$menu: int main
+com.itheima.mobilesafe74.R$raw: int ylzs
+com.itheima.mobilesafe74.R$string: int action_settings
+com.itheima.mobilesafe74.R$string: int app_name
+com.itheima.mobilesafe74.R$string: int hello_world
+com.itheima.mobilesafe74.R$style: int AppBaseTheme
+com.itheima.mobilesafe74.R$style: int AppTheme
+com.itheima.mobilesafe74.R$style: int TitleStyle
+com.itheima.mobilesafe74.R$style: int nextBtn
+com.itheima.mobilesafe74.R$style: int preBtn
+com.itheima.mobilesafe74.R$styleable: int[] com_itheima_mobilesafe74_view_SettingItemView
+com.itheima.mobilesafe74.R$styleable: int com_itheima_mobilesafe74_view_SettingItemView_desoff
+com.itheima.mobilesafe74.R$styleable: int com_itheima_mobilesafe74_view_SettingItemView_deson
+com.itheima.mobilesafe74.R$styleable: int com_itheima_mobilesafe74_view_SettingItemView_destitle
+com.itheima.mobilesafe74.R$xml: int example_appwidget_info
+com.itheima.mobilesafe74.R$xml: int process_widget_provider
+com.itheima.mobilesafe74.activity.AToolActivity
+com.itheima.mobilesafe74.activity.AToolActivity: AToolActivity()
+com.itheima.mobilesafe74.activity.AnitVirusActivity
+com.itheima.mobilesafe74.activity.AnitVirusActivity: AnitVirusActivity()
+com.itheima.mobilesafe74.activity.AppLockActivity
+com.itheima.mobilesafe74.activity.AppLockActivity: AppLockActivity()
+com.itheima.mobilesafe74.activity.AppManagerActivity
+com.itheima.mobilesafe74.activity.AppManagerActivity: AppManagerActivity()
+com.itheima.mobilesafe74.activity.AppManagerActivity: void onClick(android.view.View)
+com.itheima.mobilesafe74.activity.BaseCacheClearActivity
+com.itheima.mobilesafe74.activity.BaseCacheClearActivity: BaseCacheClearActivity()
+com.itheima.mobilesafe74.activity.BaseSetupActivity: BaseSetupActivity()
+com.itheima.mobilesafe74.activity.BaseSetupActivity: void nextPage(android.view.View)
+com.itheima.mobilesafe74.activity.BaseSetupActivity: void prePage(android.view.View)
+com.itheima.mobilesafe74.activity.BlackNumberActivity
+com.itheima.mobilesafe74.activity.BlackNumberActivity: BlackNumberActivity()
+com.itheima.mobilesafe74.activity.CacheClearActivity
+com.itheima.mobilesafe74.activity.CacheClearActivity: CacheClearActivity()
+com.itheima.mobilesafe74.activity.CommonNumberQueryActivity
+com.itheima.mobilesafe74.activity.CommonNumberQueryActivity: CommonNumberQueryActivity()
+com.itheima.mobilesafe74.activity.ContactListActivity
+com.itheima.mobilesafe74.activity.ContactListActivity: ContactListActivity()
+com.itheima.mobilesafe74.activity.EnterPsdActivity
+com.itheima.mobilesafe74.activity.EnterPsdActivity: EnterPsdActivity()
+com.itheima.mobilesafe74.activity.HomeActivity
+com.itheima.mobilesafe74.activity.HomeActivity: HomeActivity()
+com.itheima.mobilesafe74.activity.ProcessManagerActivity
+com.itheima.mobilesafe74.activity.ProcessManagerActivity: ProcessManagerActivity()
+com.itheima.mobilesafe74.activity.ProcessManagerActivity: void onClick(android.view.View)
+com.itheima.mobilesafe74.activity.ProcessSettingActivity
+com.itheima.mobilesafe74.activity.ProcessSettingActivity: ProcessSettingActivity()
+com.itheima.mobilesafe74.activity.QueryAddressActivity
+com.itheima.mobilesafe74.activity.QueryAddressActivity: QueryAddressActivity()
+com.itheima.mobilesafe74.activity.SDCacheClearActivity
+com.itheima.mobilesafe74.activity.SDCacheClearActivity: SDCacheClearActivity()
+com.itheima.mobilesafe74.activity.SettingActivity
+com.itheima.mobilesafe74.activity.SettingActivity: SettingActivity()
+com.itheima.mobilesafe74.activity.Setup1Activity
+com.itheima.mobilesafe74.activity.Setup1Activity: Setup1Activity()
+com.itheima.mobilesafe74.activity.Setup2Activity
+com.itheima.mobilesafe74.activity.Setup2Activity: Setup2Activity()
+com.itheima.mobilesafe74.activity.Setup3Activity
+com.itheima.mobilesafe74.activity.Setup3Activity: Setup3Activity()
+com.itheima.mobilesafe74.activity.Setup4Activity
+com.itheima.mobilesafe74.activity.Setup4Activity: Setup4Activity()
+com.itheima.mobilesafe74.activity.SetupOverActivity
+com.itheima.mobilesafe74.activity.SetupOverActivity: SetupOverActivity()
+com.itheima.mobilesafe74.activity.SplashActivity
+com.itheima.mobilesafe74.activity.SplashActivity: SplashActivity()
+com.itheima.mobilesafe74.activity.TestActivity
+com.itheima.mobilesafe74.activity.TestActivity: TestActivity()
+com.itheima.mobilesafe74.activity.ToastLocationActivity
+com.itheima.mobilesafe74.activity.ToastLocationActivity: ToastLocationActivity()
+com.itheima.mobilesafe74.activity.TrafficActivity
+com.itheima.mobilesafe74.activity.TrafficActivity: TrafficActivity()
+com.itheima.mobilesafe74.global.MyApplication
+com.itheima.mobilesafe74.global.MyApplication: MyApplication()
+com.itheima.mobilesafe74.receiver.BootReceiver
+com.itheima.mobilesafe74.receiver.BootReceiver: BootReceiver()
+com.itheima.mobilesafe74.receiver.KillProcessReceiver
+com.itheima.mobilesafe74.receiver.KillProcessReceiver: KillProcessReceiver()
+com.itheima.mobilesafe74.receiver.MyAppWidgetProvider
+com.itheima.mobilesafe74.receiver.MyAppWidgetProvider: MyAppWidgetProvider()
+com.itheima.mobilesafe74.receiver.SmsReceiver
+com.itheima.mobilesafe74.receiver.SmsReceiver: SmsReceiver()
+com.itheima.mobilesafe74.service.AddressService
+com.itheima.mobilesafe74.service.AddressService: AddressService()
+com.itheima.mobilesafe74.service.BlackNumberService
+com.itheima.mobilesafe74.service.BlackNumberService: BlackNumberService()
+com.itheima.mobilesafe74.service.LocationService
+com.itheima.mobilesafe74.service.LocationService: LocationService()
+com.itheima.mobilesafe74.service.LockScreenService
+com.itheima.mobilesafe74.service.LockScreenService: LockScreenService()
+com.itheima.mobilesafe74.service.UpdateWidgetService
+com.itheima.mobilesafe74.service.UpdateWidgetService: UpdateWidgetService()
+com.itheima.mobilesafe74.service.WatchDogService
+com.itheima.mobilesafe74.service.WatchDogService: WatchDogService()
+com.itheima.mobilesafe74.view.FocusTextView
+com.itheima.mobilesafe74.view.FocusTextView: FocusTextView(android.content.Context)
+com.itheima.mobilesafe74.view.FocusTextView: FocusTextView(android.content.Context,android.util.AttributeSet)
+com.itheima.mobilesafe74.view.FocusTextView: FocusTextView(android.content.Context,android.util.AttributeSet,int)
+com.itheima.mobilesafe74.view.SettingClickView
+com.itheima.mobilesafe74.view.SettingClickView: SettingClickView(android.content.Context)
+com.itheima.mobilesafe74.view.SettingClickView: SettingClickView(android.content.Context,android.util.AttributeSet)
+com.itheima.mobilesafe74.view.SettingClickView: SettingClickView(android.content.Context,android.util.AttributeSet,int)
+com.itheima.mobilesafe74.view.SettingClickView: void setTitle(java.lang.String)
+com.itheima.mobilesafe74.view.SettingClickView: void setDes(java.lang.String)
+com.itheima.mobilesafe74.view.SettingItemView
+com.itheima.mobilesafe74.view.SettingItemView: SettingItemView(android.content.Context)
+com.itheima.mobilesafe74.view.SettingItemView: SettingItemView(android.content.Context,android.util.AttributeSet)
+com.itheima.mobilesafe74.view.SettingItemView: SettingItemView(android.content.Context,android.util.AttributeSet,int)
+com.itheima.mobilesafe74.view.SettingItemView: void setCheck(boolean)
+com.lidroid.xutils.bitmap.callback.BitmapLoadFrom: com.lidroid.xutils.bitmap.callback.BitmapLoadFrom[] values()
+com.lidroid.xutils.bitmap.callback.BitmapLoadFrom: com.lidroid.xutils.bitmap.callback.BitmapLoadFrom valueOf(java.lang.String)
+com.lidroid.xutils.db.sqlite.ColumnDbType: com.lidroid.xutils.db.sqlite.ColumnDbType[] values()
+com.lidroid.xutils.db.sqlite.ColumnDbType: com.lidroid.xutils.db.sqlite.ColumnDbType valueOf(java.lang.String)
+com.lidroid.xutils.http.HttpHandler$State: com.lidroid.xutils.http.HttpHandler$State[] values()
+com.lidroid.xutils.http.HttpHandler$State: com.lidroid.xutils.http.HttpHandler$State valueOf(java.lang.String)
+com.lidroid.xutils.http.client.HttpRequest$HttpMethod: com.lidroid.xutils.http.client.HttpRequest$HttpMethod[] values()
+com.lidroid.xutils.http.client.HttpRequest$HttpMethod: com.lidroid.xutils.http.client.HttpRequest$HttpMethod valueOf(java.lang.String)
+com.lidroid.xutils.http.client.multipart.HttpMultipartMode: com.lidroid.xutils.http.client.multipart.HttpMultipartMode[] values()
+com.lidroid.xutils.http.client.multipart.HttpMultipartMode: com.lidroid.xutils.http.client.multipart.HttpMultipartMode valueOf(java.lang.String)
+com.lidroid.xutils.task.Priority: com.lidroid.xutils.task.Priority[] values()
+com.lidroid.xutils.task.Priority: com.lidroid.xutils.task.Priority valueOf(java.lang.String)
+com.lidroid.xutils.view.ResType: com.lidroid.xutils.view.ResType[] values()
+com.lidroid.xutils.view.ResType: com.lidroid.xutils.view.ResType valueOf(java.lang.String)
